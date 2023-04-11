@@ -1,1 +1,1 @@
-Beyzbol maaş tahmini için bir python porjesidir.
+Beyzbol maaş tahmini için bir python projesidir.
